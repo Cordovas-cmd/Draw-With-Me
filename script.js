@@ -95,3 +95,5 @@ clearEl.addEventListener('click', () => ctx.clearRect(0,0, canvas.width, canvas.
 // Need to add some more functionality as well as changing painting or drawing method
 // would liek to implement a diff color choice ui
 // want to give pencil paintbrush pen style etc
+// Would like to revisit and add a pixel art feature. 
+//  A way to save your game and add drawings to an account
