@@ -97,3 +97,4 @@ clearEl.addEventListener('click', () => ctx.clearRect(0,0, canvas.width, canvas.
 // want to give pencil paintbrush pen style etc
 // Would like to revisit and add a pixel art feature. 
 //  A way to save your game and add drawings to an account
+// set pixel art setting with grids and dots
